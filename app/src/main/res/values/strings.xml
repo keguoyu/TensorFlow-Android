@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animal-android</string>
+
+    <string name="resources_progress_format">"加载进度%.2f%%"</string>
+</resources>
